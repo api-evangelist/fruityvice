@@ -1,0 +1,32 @@
+aid: fruityvice
+name: Fruityvice
+description: "Data about all kinds of fruit"
+url: https://www.fruityvice.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Food & Drink"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Food And Drink
+  - Public APIs
+apis:
+  - name: Fruityvice
+    description: "Data about all kinds of fruit"
+    humanURL: https://www.fruityvice.com
+    baseURL: https://www.fruityvice.com
+    tags:
+      - Food And Drink
+    properties:
+      - type: Documentation
+        url: https://www.fruityvice.com
+common:
+  - type: Website
+    url: https://www.fruityvice.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
