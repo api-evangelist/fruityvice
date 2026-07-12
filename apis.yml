@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.fruityvice.com
 common:
+  - type: DomainSecurity
+    url: security/fruityvice-domain-security.yml
   - type: Website
     url: https://www.fruityvice.com
   - type: PublicAPIsListing
